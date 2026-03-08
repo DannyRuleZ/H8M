@@ -59,8 +59,6 @@ st.markdown('<p class="subtitulo">Hoy quiero recordarte lo increíble que eres �
 
 st.write("")
 
-st.write("")
-st.write("")
 
 # BOTON SORPRESA
 st.markdown("### 💌 Un pequeño mensaje")
@@ -79,12 +77,11 @@ if st.button("Presiona aquí"):
     Eres una persona increíble.  
     Nunca olvides lo especial que eres.  
 
-    🌸 Feliz Día de la Mujer 🌸
+    🌸 Feliz Día de la Mujer Mika 🌸
 
     </div>
     """, unsafe_allow_html=True)
 
-st.write("")
 st.write("")
 
 # MENSAJE FINAL
@@ -96,3 +93,4 @@ Hecho con mucho cariño 💖
 </p>
 
 """, unsafe_allow_html=True)
+
