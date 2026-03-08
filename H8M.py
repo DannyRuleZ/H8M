@@ -74,8 +74,8 @@ if st.button("Presiona aquí"):
     st.markdown("""
     <div class="final">
 
-    Eres una persona increíble.  
-    Nunca olvides lo especial que eres.  
+    Eres una persona increíble
+    Nunca olvides lo especial que eres
 
     🌸 Feliz Día de la Mujer Mika 🌸
 
@@ -93,4 +93,5 @@ Hecho con mucho cariño 💖
 </p>
 
 """, unsafe_allow_html=True)
+
 
