@@ -59,43 +59,6 @@ st.markdown('<p class="subtitulo">Hoy quiero recordarte lo increíble que eres �
 
 st.write("")
 
-# CARTA
-st.markdown("""
-<div class="carta">
-
-Hoy no es un día cualquiera.
-
-Hoy es un día para recordar lo fuerte, valiente y especial que eres.
-
-Tu forma de ver el mundo, tu sonrisa y la energía que transmites hacen que todo sea un poco más bonito para quienes te rodean.
-
-Gracias por existir.  
-Gracias por ser auténtica.  
-Gracias por ser una persona tan increíble.
-
-Nunca olvides lo valiosa que eres.
-
-</div>
-""", unsafe_allow_html=True)
-
-st.write("")
-st.write("")
-
-# COSAS QUE ADMIRAS
-st.markdown("### 🌷 Cosas que admiro de ti")
-
-st.markdown("""
-<div class="lista">
-
-• Tu fortaleza incluso en los momentos difíciles  
-• Tu forma de cuidar a los demás  
-• Tu inteligencia y tu forma de pensar  
-• Tu sonrisa que ilumina cualquier lugar  
-• Tu forma única de ser tú misma  
-
-</div>
-""", unsafe_allow_html=True)
-
 st.write("")
 st.write("")
 
@@ -131,4 +94,5 @@ st.markdown("""
 <p style="text-align:center;font-size:18px;">
 Hecho con mucho cariño 💖
 </p>
+
 """, unsafe_allow_html=True)
